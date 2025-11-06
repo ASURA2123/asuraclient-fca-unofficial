@@ -1,7 +1,8 @@
 # AsuraClient/fca-unofficial
 
-[![npm version](https://img.shields.io/npm/v/AsuraClient/fca-unofficial.svg)](https://www.npmjs.com/package/AsuraClient/fca-unofficial)
-[![npm downloads](https://img.shields.io/npm/dm/AsuraClient/fca-unofficial.svg)](https://www.npmjs.com/package/AsuraClient/fca-unofficial)
+[![npm version](https://img.shields.io/npm/v/asuraclient-fca-unofficial.svg?style=flat)](https://www.npmjs.com/package/asuraclient-fca-unofficial)
+[![npm downloads](https://img.shields.io/npm/dt/asuraclient-fca-unofficial.svg?style=flat)](https://www.npmjs.com/package/asuraclient-fca-unofficial)
+
 
 > **Unofficial Facebook Chat API for Node.js** - Interact with Facebook Messenger programmatically
 
@@ -371,3 +372,4 @@ If this project is helpful, please give it a ⭐ on GitHub!
 ---
 
 **Disclaimer:** This is an unofficial API and is not officially supported by Facebook. Use responsibly and comply with [Facebook Terms of Service](https://www.facebook.com/terms.php).
+
