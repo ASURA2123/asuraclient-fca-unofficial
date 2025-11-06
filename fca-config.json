@@ -1,0 +1,21 @@
+{
+  "autoUpdate": false,
+  "mqtt": {
+    "enabled": true,
+    "reconnectInterval": 3600
+  },
+  "autoLogin": true,
+  "credentials": {
+    "email": "",
+    "password": "",
+    "twofactor": ""
+  },
+  "logging": {
+    "level": "debug",
+    "format": "text"
+  },
+  "security": {
+    "encryptCredentials": true,
+    "encryptionKey": ""
+  }
+}
